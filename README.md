@@ -1,2 +1,2 @@
-# lost_and_found_app
- Actually an inspired project
+# TEXT_MANIPULATOR
+ Actually an inspired project during learning phase.
